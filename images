@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
+    <head><link rel="stylesheet" type="text/css" href="styles.css"> </head>
     <body>
-        <p> This is Bentley on his 2nd birthday <img src="pictures/Bentley_bday_with_cake.jpg" width="250px" height="250px" alt="2nd birthday">
-    <img src="Bentley bday with cake"></p> 
+        <p class="right"> This is Bentley on his 2nd birthday <img src="pictures/Bentley_bday_with_cake.jpg" width="400px" height="300px" alt="2nd birthday">
+    <img src="pictures/Bentley_bday.jpg" width="400px" height="300px" alt="2nd birthday"></p> 
 
-        <p> My partner in crime <img src="pictures/thuglife.jpg" width="250px" height="250px" alt="Bentley with blue jacket">
+        <p> My partner in crime <img src="pictures/thuglife.jpg" width="300px" height="400px" alt="Bentley with blue jacket"> </p>
 
-        <p> 
+        <p class="right"> Bentley in more clothes <img src="pictures/bentleyinshorts.jpg" width="400px" height="300px" alt="Wearing different clothes"> <p>
+        <p> <img src="pictures/socksandabowtie.jpg" width="300px" height="400px" alt="being cute"> He's a classy guy! And check out his socks </p>
+        <p class="right"> <img src="pictures/happyboy.jpg" width="300px" height="400px" alt="Smiling"> I love this sweet boy </p>
 
     </body>
 </html>
