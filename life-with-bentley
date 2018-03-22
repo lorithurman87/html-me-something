@@ -55,6 +55,9 @@
                     </p> 
                     <h3></h3>
                 </article>
+
+                 <a id="puppy_two" href="images">Click Me to see additional pictures!</a>
+                  <a href="index.html">Main Page</a>
             </main>
             <footer> &copy; 2016 Lori Thurman and Bentley Thomas Thurman</footer>
         </body>

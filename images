@@ -10,6 +10,18 @@
         <p class="right"> Bentley in more clothes <img src="pictures/bentleyinshorts.jpg" width="400px" height="300px" alt="Wearing different clothes"> <p>
         <p> <img src="pictures/socksandabowtie.jpg" width="300px" height="400px" alt="being cute"> He's a classy guy! And check out his socks </p>
         <p class="right"> <img src="pictures/happyboy.jpg" width="300px" height="400px" alt="Smiling"> I love this sweet boy </p>
+        <p> <img src="pictures/turtle.jpg" width="300px" height="400px" alt="turtle power"> Halloween costume </p>
+        <p> <img src="pictures/halloween.jpg" width="300px" height="400px" alt="turtle power"> Halloween costume, ninja turtle </p>
+        <p class="right"> <img src="pictures/sweatertie.jpg" width="300px" height="400px" alt="rockin a sweater and bowtie"> He likes to look nice </p>
+
+        <h3> Goodbye! Thanks for learning about me </h3>
+            <p> <video width="400" height="400" controls loop> <source src="pictures/video.mp4" type="video/mp4"> 
+
+
+        <a id="puppy" href="life-with-bentley">Click Me to learn about Bentley!</a>
+        <a href="index.html">Main Page</a>
+
+        <footer> &copy; 2016 Lori Thurman and Bentley Thomas Thurman</footer>
 
     </body>
 </html>
