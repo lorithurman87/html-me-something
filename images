@@ -2,8 +2,9 @@
 <html>
     <head><link rel="stylesheet" type="text/css" href="styles.css"> </head>
     <body>
-        <p class="right"> This is Bentley on his 2nd birthday <img src="pictures/Bentley_bday_with_cake.jpg" width="400px" height="300px" alt="2nd birthday">
-    <img src="pictures/Bentley_bday.jpg" width="400px" height="300px" alt="2nd birthday"></p> 
+        <header id="diff"> Pictures Galore</header>
+        <p id="rightdiff"> This is Bentley on his 2nd birthday <img src="pictures/Bentley_bday_with_cake.jpg" class="rotate90" width="400px" height="300px" alt="2nd birthday">
+    <img src="pictures/Bentley_bday.jpg" class="rotate90" width="400px" height="300px" alt="2nd birthday"></p> 
 
         <p> My partner in crime <img src="pictures/thuglife.jpg" width="300px" height="400px" alt="Bentley with blue jacket"> </p>
 
