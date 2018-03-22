@@ -1,1 +1,12 @@
-<!--these are pictures-->
+<!DOCTYPE html>
+<html>
+    <body>
+        <p> This is Bentley on his 2nd birthday <img src="pictures/Bentley_bday_with_cake.jpg" width="250px" height="250px" alt="2nd birthday">
+    <img src="Bentley bday with cake"></p> 
+
+        <p> My partner in crime <img src="pictures/thuglife.jpg" width="250px" height="250px" alt="Bentley with blue jacket">
+
+        <p> 
+
+    </body>
+</html>
